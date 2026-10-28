@@ -1,0 +1,6 @@
+<data>
+    <!-- നിലവിലുള്ള പഴയ XPath കട്ടുകളൊക്കെ ഒഴിവാക്കി ഈ ഒരൊറ്റ കോഡ് മാത്രം നൽകുക -->
+    <xpath expr="//a[contains(@href, 'odoo.com')]" position="replace">
+        <a target="_blank" href="https://www.nabs.qa" style="color: #875A7B;">Nabs International</a>
+    </xpath>
+</data>
